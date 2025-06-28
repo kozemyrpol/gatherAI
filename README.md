@@ -1,2 +1,3 @@
 # gatherAI
 code 
+get private
